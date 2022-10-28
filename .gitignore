@@ -1,0 +1,3 @@
+*.bak ( all bak will files will be ignored)
+*.txt ( all txt files will be ignored)
+
